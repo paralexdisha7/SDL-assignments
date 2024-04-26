@@ -1,5 +1,4 @@
 from lxml import etree
-
 # Load the XML Schema
 
 schema_file = 'C:/Users/Disha Parale/Desktop/sem6/SDL/assign_xml/book_schema.xsd'
